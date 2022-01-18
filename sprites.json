@@ -1,0 +1,1982 @@
+[
+  {
+    "@type": "Block",
+    "x": 420,
+    "y": 517,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 500,
+    "y": 517,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 579,
+    "y": 517,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 499,
+    "y": 437,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 913,
+    "y": 449,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 992,
+    "y": 449,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 1259,
+    "y": 235,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 1339,
+    "y": 235,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 1418,
+    "y": 235,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 1943,
+    "y": 465,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 2023,
+    "y": 465,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 2102,
+    "y": 465,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 2349,
+    "y": 248,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 2428,
+    "y": 248,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 2721,
+    "y": 359,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 2800,
+    "y": 359,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 3172,
+    "y": 530,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 3251,
+    "y": 530,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 3330,
+    "y": 530,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 3329,
+    "y": 450,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 3408,
+    "y": 530,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 3408,
+    "y": 452,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 3408,
+    "y": 373,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 3739,
+    "y": 185,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 3819,
+    "y": 184,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 3896,
+    "y": 184,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "OP-Mask",
+    "x": 1334,
+    "y": 175,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/OP-mask.png",
+    "healthPoint": 0,
+    "scorePoint": 1
+  },
+  {
+    "@type": "Virus",
+    "x": 2107,
+    "y": 385,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/virus.png",
+    "healthPoint": -1,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Syringe",
+    "x": 2396,
+    "y": 184,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/syringe.png",
+    "healthPoint": 1,
+    "scorePoint": 0
+  },
+  {
+    "@type": "FFP2-Mask",
+    "x": 3814,
+    "y": 123,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/FFP2-mask.png",
+    "healthPoint": 0,
+    "scorePoint": 2
+  },
+  {
+    "@type": "Block",
+    "x": 4352,
+    "y": 389,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 4432,
+    "y": 388,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 4511,
+    "y": 388,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 5080,
+    "y": 515,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 5159,
+    "y": 515,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 5239,
+    "y": 514,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 5239,
+    "y": 438,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 5159,
+    "y": 438,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 5240,
+    "y": 360,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 5652,
+    "y": 230,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 5731,
+    "y": 230,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 5810,
+    "y": 230,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Syringe",
+    "x": 5743,
+    "y": 166,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/syringe.png",
+    "healthPoint": 1,
+    "scorePoint": 0
+  },
+  {
+    "@type": "FFP2-Mask",
+    "x": 5709,
+    "y": 525,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/FFP2-mask.png",
+    "healthPoint": 0,
+    "scorePoint": 2
+  },
+  {
+    "@type": "Block",
+    "x": 6474,
+    "y": 402,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 6551,
+    "y": 401,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 6629,
+    "y": 401,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 6709,
+    "y": 401,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "OP-Mask",
+    "x": 6593,
+    "y": 342,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/OP-mask.png",
+    "healthPoint": 0,
+    "scorePoint": 1
+  },
+  {
+    "@type": "Block",
+    "x": 7393,
+    "y": 492,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 7472,
+    "y": 492,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 7551,
+    "y": 492,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 7792,
+    "y": 277,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 7872,
+    "y": 278,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 7951,
+    "y": 277,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Virus",
+    "x": 998,
+    "y": 371,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/virus.png",
+    "healthPoint": -1,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Virus",
+    "x": 4745,
+    "y": 531,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/virus.png",
+    "healthPoint": -1,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Virus",
+    "x": 6217,
+    "y": 513,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/virus.png",
+    "healthPoint": -1,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Virus",
+    "x": 7870,
+    "y": 198,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/virus.png",
+    "healthPoint": -1,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 8386,
+    "y": 505,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 8465,
+    "y": 505,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 8544,
+    "y": 505,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 8467,
+    "y": 425,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 8544,
+    "y": 425,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 8623,
+    "y": 504,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 8623,
+    "y": 425,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 8628,
+    "y": 347,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 8547,
+    "y": 346,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 9031,
+    "y": 145,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 9110,
+    "y": 144,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 9190,
+    "y": 143,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Syringe",
+    "x": 9123,
+    "y": 70,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/syringe.png",
+    "healthPoint": 1,
+    "scorePoint": 0
+  },
+  {
+    "@type": "FFP2-Mask",
+    "x": 9113,
+    "y": 514,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/FFP2-mask.png",
+    "healthPoint": 0,
+    "scorePoint": 2
+  },
+  {
+    "@type": "Virus",
+    "x": 9543,
+    "y": 512,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/virus.png",
+    "healthPoint": -1,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 9781,
+    "y": 533,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 9861,
+    "y": 533,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 9861,
+    "y": 454,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 9941,
+    "y": 533,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 9940,
+    "y": 454,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 10021,
+    "y": 533,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Virus",
+    "x": 10203,
+    "y": 520,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/virus.png",
+    "healthPoint": -1,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 10520,
+    "y": 373,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 10600,
+    "y": 374,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 10680,
+    "y": 373,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 10987,
+    "y": 190,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 11067,
+    "y": 190,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 11145,
+    "y": 190,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "OP-Mask",
+    "x": 10802,
+    "y": 545,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/OP-mask.png",
+    "healthPoint": 0,
+    "scorePoint": 1
+  },
+  {
+    "@type": "FFP2-Mask",
+    "x": 11066,
+    "y": 130,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/FFP2-mask.png",
+    "healthPoint": 0,
+    "scorePoint": 2
+  },
+  {
+    "@type": "Virus",
+    "x": 11550,
+    "y": 513,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/virus.png",
+    "healthPoint": -1,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 11717,
+    "y": 364,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 11796,
+    "y": 364,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 11875,
+    "y": 364,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 12254,
+    "y": 245,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 12333,
+    "y": 245,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 12412,
+    "y": 245,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 12619,
+    "y": 518,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 12699,
+    "y": 518,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "OP-Mask",
+    "x": 11795,
+    "y": 305,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/OP-mask.png",
+    "healthPoint": 0,
+    "scorePoint": 1
+  },
+  {
+    "@type": "FFP2-Mask",
+    "x": 12147,
+    "y": 548,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/FFP2-mask.png",
+    "healthPoint": 0,
+    "scorePoint": 2
+  },
+  {
+    "@type": "Virus",
+    "x": 12405,
+    "y": 532,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/virus.png",
+    "healthPoint": -1,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 12778,
+    "y": 518,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 12941,
+    "y": 351,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 13021,
+    "y": 351,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 13101,
+    "y": 350,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 13347,
+    "y": 188,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 13426,
+    "y": 188,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "FFP2-Mask",
+    "x": 13391,
+    "y": 128,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/FFP2-mask.png",
+    "healthPoint": 0,
+    "scorePoint": 2
+  },
+  {
+    "@type": "Virus",
+    "x": 13561,
+    "y": 527,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/virus.png",
+    "healthPoint": -1,
+    "scorePoint": 0
+  },
+  {
+    "@type": "OP-Mask",
+    "x": 13233,
+    "y": 549,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/OP-mask.png",
+    "healthPoint": 0,
+    "scorePoint": 1
+  },
+  {
+    "@type": "Block",
+    "x": 13781,
+    "y": 522,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 13860,
+    "y": 523,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 13939,
+    "y": 524,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 14018,
+    "y": 524,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 13943,
+    "y": 445,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 14019,
+    "y": 446,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 13863,
+    "y": 445,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 13944,
+    "y": 366,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 14021,
+    "y": 366,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 14376,
+    "y": 170,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 14456,
+    "y": 170,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 14535,
+    "y": 171,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Virus",
+    "x": 14028,
+    "y": 286,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/virus.png",
+    "healthPoint": -1,
+    "scorePoint": 0
+  },
+  {
+    "@type": "FFP2-Mask",
+    "x": 14460,
+    "y": 112,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/FFP2-mask.png",
+    "healthPoint": 0,
+    "scorePoint": 2
+  },
+  {
+    "@type": "Block",
+    "x": 14804,
+    "y": 352,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 14882,
+    "y": 351,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 14961,
+    "y": 351,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Virus",
+    "x": 15135,
+    "y": 528,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/virus.png",
+    "healthPoint": -1,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Virus",
+    "x": 14786,
+    "y": 275,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/virus.png",
+    "healthPoint": -1,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 15576,
+    "y": 526,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 15655,
+    "y": 526,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 15656,
+    "y": 446,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 15735,
+    "y": 526,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 15736,
+    "y": 448,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 15735,
+    "y": 369,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 15964,
+    "y": 184,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 16044,
+    "y": 184,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 16383,
+    "y": 270,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 16462,
+    "y": 270,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Virus",
+    "x": 16046,
+    "y": 534,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/virus.png",
+    "healthPoint": -1,
+    "scorePoint": 0
+  },
+  {
+    "@type": "FFP2-Mask",
+    "x": 16371,
+    "y": 547,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/FFP2-mask.png",
+    "healthPoint": 0,
+    "scorePoint": 2
+  },
+  {
+    "@type": "Syringe",
+    "x": 16026,
+    "y": 122,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/syringe.png",
+    "healthPoint": 1,
+    "scorePoint": 0
+  },
+  {
+    "@type": "OP-Mask",
+    "x": 15656,
+    "y": 385,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/OP-mask.png",
+    "healthPoint": 0,
+    "scorePoint": 1
+  },
+  {
+    "@type": "Virus",
+    "x": 16422,
+    "y": 192,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/virus.png",
+    "healthPoint": -1,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 16825,
+    "y": 168,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 16904,
+    "y": 168,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Syringe",
+    "x": 16873,
+    "y": 105,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/syringe.png",
+    "healthPoint": 1,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 17104,
+    "y": 523,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 17183,
+    "y": 523,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 17425,
+    "y": 419,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 17505,
+    "y": 418,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "OP-Mask",
+    "x": 17304,
+    "y": 532,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/OP-mask.png",
+    "healthPoint": 0,
+    "scorePoint": 1
+  },
+  {
+    "@type": "Virus",
+    "x": 17738,
+    "y": 517,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/virus.png",
+    "healthPoint": -1,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 17850,
+    "y": 184,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 17930,
+    "y": 185,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 18195,
+    "y": 108,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 18275,
+    "y": 108,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Virus",
+    "x": 17899,
+    "y": 108,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/virus.png",
+    "healthPoint": -1,
+    "scorePoint": 0
+  },
+  {
+    "@type": "FFP2-Mask",
+    "x": 18236,
+    "y": 49,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/FFP2-mask.png",
+    "healthPoint": 0,
+    "scorePoint": 2
+  },
+  {
+    "@type": "Virus",
+    "x": 3910,
+    "y": 103,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/virus.png",
+    "healthPoint": -1,
+    "scorePoint": 0
+  },
+  {
+    "@type": "OP-Mask",
+    "x": 4230,
+    "y": 538,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/OP-mask.png",
+    "healthPoint": 0,
+    "scorePoint": 1
+  },
+  {
+    "@type": "OP-Mask",
+    "x": 4422,
+    "y": 328,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/OP-mask.png",
+    "healthPoint": 0,
+    "scorePoint": 1
+  },
+  {
+    "@type": "OP-Mask",
+    "x": 7461,
+    "y": 433,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/OP-mask.png",
+    "healthPoint": 0,
+    "scorePoint": 1
+  },
+  {
+    "@type": "FFP2-Mask",
+    "x": 7961,
+    "y": 217,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/FFP2-mask.png",
+    "healthPoint": 0,
+    "scorePoint": 2
+  },
+  {
+    "@type": "OP-Mask",
+    "x": 7867,
+    "y": 514,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/OP-mask.png",
+    "healthPoint": 0,
+    "scorePoint": 1
+  },
+  {
+    "@type": "Block",
+    "x": 18696,
+    "y": 327,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 18774,
+    "y": 326,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 18854,
+    "y": 326,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Virus",
+    "x": 18752,
+    "y": 249,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/virus.png",
+    "healthPoint": -1,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Virus",
+    "x": 18425,
+    "y": 522,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/virus.png",
+    "healthPoint": -1,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 19138,
+    "y": 153,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 19218,
+    "y": 152,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "FFP2-Mask",
+    "x": 19175,
+    "y": 96,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/FFP2-mask.png",
+    "healthPoint": 0,
+    "scorePoint": 2
+  },
+  {
+    "@type": "OP-Mask",
+    "x": 19195,
+    "y": 524,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/OP-mask.png",
+    "healthPoint": 0,
+    "scorePoint": 1
+  },
+  {
+    "@type": "Block",
+    "x": 19581,
+    "y": 510,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 19661,
+    "y": 510,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 19741,
+    "y": 510,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 19663,
+    "y": 431,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 19743,
+    "y": 432,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 19741,
+    "y": 353,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 20076,
+    "y": 231,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 20156,
+    "y": 230,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "OP-Mask",
+    "x": 20116,
+    "y": 169,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/OP-mask.png",
+    "healthPoint": 0,
+    "scorePoint": 1
+  },
+  {
+    "@type": "Virus",
+    "x": 20309,
+    "y": 512,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/virus.png",
+    "healthPoint": -1,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 20553,
+    "y": 370,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 20631,
+    "y": 368,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "OP-Mask",
+    "x": 20593,
+    "y": 526,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/OP-mask.png",
+    "healthPoint": 0,
+    "scorePoint": 1
+  },
+  {
+    "@type": "Block",
+    "x": 21029,
+    "y": 346,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 21109,
+    "y": 346,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 21329,
+    "y": 202,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 21408,
+    "y": 202,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Syringe",
+    "x": 21338,
+    "y": 142,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/syringe.png",
+    "healthPoint": 1,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Virus",
+    "x": 21413,
+    "y": 121,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/virus.png",
+    "healthPoint": -1,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 21656,
+    "y": 426,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "Block",
+    "x": 21734,
+    "y": 426,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/block.png",
+    "healthPoint": 0,
+    "scorePoint": 0
+  },
+  {
+    "@type": "OP-Mask",
+    "x": 21695,
+    "y": 531,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/OP-mask.png",
+    "healthPoint": 0,
+    "scorePoint": 1
+  },
+  {
+    "@type": "OP-Mask",
+    "x": 2364,
+    "y": 518,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/OP-mask.png",
+    "healthPoint": 0,
+    "scorePoint": 1
+  },
+  {
+    "@type": "OP-Mask",
+    "x": 745,
+    "y": 427,
+    "width": 80,
+    "height": 80,
+    "imagePath": "/images/OP-mask.png",
+    "healthPoint": 0,
+    "scorePoint": 1
+  }
+]
